@@ -10,7 +10,7 @@ Para 2 *italics example*
 > > This is nested line 1\
 > > Nested line 2
 > > 
-> Last line of block quote
+> Last line of block quote\
 
 Unordered list
 * Apples
